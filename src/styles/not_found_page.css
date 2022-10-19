@@ -1,0 +1,16 @@
+.mainBlock {
+    height: calc(100vh - 64px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.lbl {
+    font-size: xx-large;
+    display: block;
+}
+.error404 {
+    color: crimson;
+    font-size: 54px;
+    display: block;
+}

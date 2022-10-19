@@ -1,0 +1,15 @@
+.mainBlockAD {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 64px);
+    flex-direction: column;
+}
+.blockIcon {
+    color: crimson;
+    display: block;
+    font-size: 60px;
+}
+.lblAD {
+    font-size: 44px;
+}
